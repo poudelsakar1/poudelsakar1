@@ -132,7 +132,20 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'React, Next.js', 'React Native', 'Vue, Vuex, Nuxt.js', 'Angular', 'Node.js, Express.js', 'GraphQL, Apollo', 'PHP, Laravel', 'Python, Django', 'MySQL, MongoDB', 'DevOps, AWS, Firebase', 'Git, Docker'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'React, Next.js',
+    'React Native',
+    'Vue, Vuex, Nuxt.js',
+    'Angular',
+    'Node.js, Express.js',
+    'GraphQL, Apollo',
+    'PHP, Laravel',
+    'Python, Django',
+    'MySQL, MongoDB',
+    'DevOps, AWS, Firebase',
+    'Git, Docker',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -141,16 +154,21 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>I am a front-end developer with over 7 years of experience who is proficient in modern JavaScript and frameworks like React/Redux, Next.js, Gatsby.js, Vue.js, Nuxt.js, TypeScript, Node.js/Express.js and much more.</p>
-
             <p>
-              One of my strong points is integrating 3rd party API such as social(Facebook, Twitter, Gmail), Firebase, Twillio, Payment Gateway, Hubspot, Quickbooks, OAuth, AuthO, WebRTC and integrating AWS(Lambda, DynamoDB, EC2, S3, Elastic Beanstalk, Amplify, Cognito).
+              I am a front-end developer with over 5 years of experience who is proficient in modern
+              JavaScript and frameworks like React/Redux, Next.js, Gatsby.js, Vue.js, Nuxt.js,
+              TypeScript, Node.js/Express.js and much more.
             </p>
 
             <p>
-              Shortly after graduating from{' '}
-              Bejing Institute of Technology, I joined the
-              e-Perfect IT Company.
+              One of my strong points is integrating 3rd party API such as social(Facebook, Twitter,
+              Gmail), Firebase, Twillio, Payment Gateway, Hubspot, Quickbooks, OAuth, AuthO, WebRTC
+              and integrating AWS(Lambda, DynamoDB, EC2, S3, Elastic Beanstalk, Amplify, Cognito).
+            </p>
+
+            <p>
+              Shortly after graduating from Bejing Institute of Technology, I joined the e-Perfect
+              IT Company.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>

@@ -12,7 +12,7 @@ tech:
 showInProjects: true
 ---
 
-HomeWayz was created because of a lack of effective tools that support Real Estate agents and their business needs. Through efficient time management, fostering trusted relationships and providing deep, rich and unique data to your clients and their journey HomeWayz is a critical key to your success.
+<a href="https://homewayz.io/">HomeWayz</a> was created because of a lack of effective tools that support Real Estate agents and their business needs. Through efficient time management, fostering trusted relationships and providing deep, rich and unique data to your clients and their journey HomeWayz is a critical key to your success.
 Here is a staging page for the development.
 https://staging.homewayz.io/
 username: sobopla@gmail.com

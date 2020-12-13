@@ -1,10 +1,10 @@
 ---
 date: '2017-12-21'
 title: 'Junior Web Developer'
-company: 'e-Perfect IT'
-location: 'Hong Kong'
-range: 'Jun 2011 - Aug 2015'
-url: 'https://e-perfectit.com/'
+company: 'SampraSoft'
+location: 'Alpharetta, GA'
+range: 'Jun 2013 - Aug 2016'
+url: 'https://www.samprasoft.com/'
 ---
 
 - Worked as a productive and positive team member to design, code, test, report, and debug operations.

@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'xiaocheng0424@gmail.com',
+  email: 'poudelsakar1@gmail.com',
 
   socialMedia: [
     {
@@ -8,8 +8,8 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'www.linkedin.com/in/xiao-cheng-6360371b6',
-    }
+      url: 'www.linkedin.com/in/sakarpoude1',
+    },
   ],
 
   navLinks: [
