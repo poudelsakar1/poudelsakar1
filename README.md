@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/FxL5qM0.jpg" alt="Bot logo"></a>
+ <img width=200px height=200px src="https://sakarpoudel.com" alt="Bot logo"></a>
 </p>
 
 <h3 align="center">v4</h3>
@@ -129,9 +129,9 @@ To see an example project on how to deploy your bot, please see my own configura
 - [PRAW](https://praw.readthedocs.io/en/latest/) - Python Reddit API Wrapper
 - [Heroku](https://www.heroku.com/) - SaaS hosting platform
 
-## ✍️ Authors <a name = "authors"></a>
+## ✍️ Authors <a name = "Sakar Poudel"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+- [@Sakar Poudel](https://github.com/poudelsakar1) - Idea & Initial work
 
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
