@@ -166,11 +166,6 @@ const About = () => {
               and integrating AWS(Lambda, DynamoDB, EC2, S3, Elastic Beanstalk, Amplify, Cognito).
             </p>
 
-            <p>
-              Shortly after graduating from Bejing Institute of Technology, I joined the e-Perfect
-              IT Company.
-            </p>
-
             <p>Here are a few technologies I've been working with recently:</p>
           </div>
 
