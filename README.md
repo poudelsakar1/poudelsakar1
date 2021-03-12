@@ -22,12 +22,12 @@ yarn install
 npm start
 ```
 
-## 🚀 Building Project
+## Building Project
 
 To see an example project on how to deploy your bot, please see my own configuration:
 
 - **Sakar Poudel Personal Website**: https://sakarpoudel.com
 
-## ✍️ Authors <a name = "Sakar Poudel"></a>
+## Authors <a name = "Sakar Poudel"></a>
 
 - [@Sakar Poudel](https://github.com/poudelsakar1)
