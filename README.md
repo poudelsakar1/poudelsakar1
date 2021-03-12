@@ -1,8 +1,11 @@
-## 🧐 About Project
+## Technical Stack
+React, Gatsby, Bootstrap
+
+## About Project
 
 This Project is my portfolio website with Gatsby. Deployed to my domain sakarpoudel.com
 
-## 🏁 Getting Started <a name = "getting_started"></a>
+## Getting Started <a name = "getting_started"></a>
 
 ### Installing
 
