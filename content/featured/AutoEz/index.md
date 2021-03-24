@@ -2,15 +2,19 @@
 date: '3'
 title: 'AutoEz'
 cover: './AutoEz.png'
-github: 'https://github.com/poudelsakar1/Classifieds'
 external: 'https://autoez.com/'
 tech:
-  - React.js
+  - HTML5
+  - JavaScript
+  - React
   - Hooks
-  - Node.js
+  - Context
+  - Node
+  - Express
   - MongoDB Atlas
 showInProjects: true
 ---
 
 <a href="https://autoez.com">AutoEZ</a> is car dealing website. AutoEz allow all customers can choose best car according to their price and interest.
-I developed this project as front-end developer using React(Functional Components, Context API, Hooks).
+I developed this project as full-stack developer using React(Functional Components, Context API, Hooks) and Node.js(Express.js, MongoDB Atlas).
+Deployed to the Goggle Could Platform.
