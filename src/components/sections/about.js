@@ -155,7 +155,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I am a front-end developer with over 5 years of experience who is proficient in modern
+              I am a full stack web & mobile developer with over 5 years of experience who is proficient in modern
               JavaScript and frameworks like React/Redux, Next.js, Gatsby.js, Vue.js, Nuxt.js,
               TypeScript, Node.js/Express.js and much more.
             </p>
