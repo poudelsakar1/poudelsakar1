@@ -5,7 +5,7 @@
   "author": "Sakar Poudel <poudelsakar1@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/poudelsakar1/poudelsakar1"
   },
   "keywords": [
     "gatsby"
@@ -15,7 +15,7 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
-    "start": "npm run develop",
+    "start": "gatsby serve",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "heroku-postbuild": "gatsby build"
