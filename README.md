@@ -1,33 +1,12 @@
-## Technical Stack
-React, Gatsby, Bootstrap
+<h1 align="center">⚡️ Sakar Poudel, experienced JavaScript Developer ⚡️</h1>
+<h4 align="center"><a href="https://www.linkedin.com/in/sakar--poudel/">LinkedIn</a> &bull; <a href="https://stackoverflow.com/story/sakarpoudel">Stack Overflow</a> &bull; <a href="https://sakarpoudel.heroku.com">Personal Website</a></h4>
 
-## About Project
+---
 
-This Project is my portfolio website with Gatsby. Deployed to my domain sakarpoudel.com
+Sakar Poudel, who is a high-skilled web developer with extensive experience in the field, is looking for an opportunity to use his knowledge to be an asset to a company in need.
 
-## Getting Started <a name = "getting_started"></a>
-
-### Installing
-
-Install node modules.
-
-```
-npm install
-yarn install
-```
-
-### Start server
-
-```
-npm start
-```
-
-## Building Project
-
-To see an example project on how to deploy your bot, please see my own configuration:
-
-- **Sakar Poudel Personal Website**: https://sakarpoudel.com
-
-## Authors <a name = "Sakar Poudel"></a>
-
-- [@Sakar Poudel](https://github.com/poudelsakar1)
+- 💪 Advanced mathematical and science skills
+- 💪 Experience in Web programming
+- 💪 Project Management and System analyzing
+- 💪 In-depth understanding of many web development skills
+- 💪 Capable of working within specific timelines and deadlines
