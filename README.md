@@ -10,3 +10,6 @@ Sakar Poudel, who is a high-skilled web developer with extensive experience in t
 - 💪 Project Management and System analyzing
 - 💪 In-depth understanding of many web development skills
 - 💪 Capable of working within specific timelines and deadlines
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=poudelsakar1)
+
