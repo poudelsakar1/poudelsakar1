@@ -1,5 +1,5 @@
 <h1 align="center">⚡️ Sakar Poudel, experienced JavaScript Developer ⚡️</h1>
-<h4 align="center"><a href="https://www.linkedin.com/in/sakar--poudel/">LinkedIn</a> &bull; <a href="https://stackoverflow.com/story/sakarpoudel">Stack Overflow</a> &bull; <a href="https://sakarpoudel.heroku.com">Personal Website</a></h4>
+<h4 align="center"><a href="https://www.linkedin.com/in/sakar--poudel/">LinkedIn</a> &bull; <a href="https://stackoverflow.com/story/sakarpoudel">Stack Overflow</a> &bull; <a href="https://sakarpoudel.herokuapp.com">Personal Website</a></h4>
 
 ---
 
